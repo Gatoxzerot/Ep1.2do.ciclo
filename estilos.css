@@ -9,7 +9,7 @@ body{
     background-size: cover; /* Asegura que la imagen cubra todo el fondo */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
-    height: 130vh;
+    height: 150vh;
     color: whitesmoke;  
 }
 #Cabecera{
